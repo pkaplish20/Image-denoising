@@ -1,0 +1,1 @@
+python main_grayscale.py --test_dir=Dataset/ModelB/Grayscale --pretrain=Models/ModelB_grayscale/model_B_grayscale.h5

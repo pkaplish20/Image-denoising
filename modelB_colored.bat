@@ -1,0 +1,1 @@
+python main_colored.py --test_dir=Dataset/ModelB/Colored --pretrain=Models/ModelB_colored/model_B_colored.h5

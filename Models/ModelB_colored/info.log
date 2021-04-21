@@ -1,0 +1,3 @@
+2018 19:34:30 main.py[line:51] INFO Namespace(batch_size=128, epoch=40, lr=0.001, model='DnCNN', only_test=False, pretrain='D:/Img Denoising/snapshot/Model/model_25.h5', save_every=5, sigma=30, test_dir='D:/Img Denoising/dataset/New folder', train_data='D:/Img Denoising/npy_data/clean_patches.npy')
+2018 19:34:30 main.py[line:59] INFO loading train data...
+2018 19:34:50 main.py[line:61] INFO Size of train data: (453600, 50, 50)
